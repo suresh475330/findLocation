@@ -6,7 +6,7 @@ import './Location.css'
 // config file - more then data irunthuthu na atha intha mathire object ta covert pannikalam
 let locationConfig = {
     North : {
-        text : 'hi your corrent location is North region',
+        text : 'hello, your corrent location is North region',
         picture : northpic
     },
     South : {
